@@ -1,0 +1,21 @@
+# 💫 About Me:
+¡Hola a todos! 👋<br><br>Soy Alejandro un apasionado programador de 24 años proveniente de la hermosa Colombia 🇨🇴. Desde muy joven, he estado inmerso en el emocionante mundo de la programación, y cada día encuentro nuevas razones para enamorarme de la tecnología y el desarrollo de software.<br><br>Mi entusiasmo por aprender y crecer en el campo de la programación me ha llevado a buscar constantemente desafíos que me permitan expandir mis habilidades y conocimientos. Como joven programador, tengo una sed insaciable de conocimiento y una mente abierta para absorber nuevas ideas y conceptos. Siempre estoy dispuesto a salir de mi zona de confort y sumergirme en proyectos que me desafíen a pensar de manera creativa y a encontrar soluciones innovadoras.<br><br>Participar en proyectos colaborativos es mi pasión. Creo firmemente en el poder de la colaboración y el intercambio de ideas en la comunidad de desarrollo. Mi objetivo es no solo contribuir de manera significativa a los proyectos en los que participo, sino también aprender de mis colegas y compañeros de equipo en el proceso.<br><br>La programación es como un lienzo en blanco para mí, y cada línea de código es una pincelada que me acerca a la creación de soluciones asombrosas. Me emociona especialmente trabajar en proyectos que tengan un impacto real en la vida de las personas y en la sociedad en general.<br><br>Estoy emocionado por la oportunidad de conectar con mentes brillantes en la industria y contribuir positivamente en proyectos que marquen la diferencia. Siempre estoy abierto a nuevas oportunidades y desafíos que me permitan seguir creciendo como programador y como individuo.<br><br>¡Vamos a crear algo grandioso juntos! Si estás buscando un apasionado programador comprometido con la excelencia y el aprendizaje continuo, no dudes en contactarme. Estoy listo para sumergirme en nuevos proyectos emocionantes y hacer una diferencia.<br><br>¡Hablemos de código, innovación y el próximo gran proyecto! 🚀<br><br>Saludos,<br>Alejandro Londoño Franco
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alejandro-londono-franco/) 
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AL3J4NDR023&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AL3J4NDR023&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AL3J4NDR023&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AL3J4NDR023&limit=5&theme=monokai&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=AL3J4NDR023&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
